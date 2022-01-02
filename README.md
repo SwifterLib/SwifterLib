@@ -1,3 +1,3 @@
 # SwifterLib
 
-A description of this package.
+Essential Swift Utils and Extensions.
